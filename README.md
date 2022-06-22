@@ -2,7 +2,7 @@
 
 # Purpose
 
- -  The purpose of this project was to refactor an Excel/VBA code to display stock information from the years 2017 and 2018. The original format was sound but with our modifications it aimed to be more effective. 
+ -  The purpose of this project was to refactor an Excel/VBA code to display stock information from the years 2017 and 2018. The original format was sound but with our modifications it aimed to be more efficient. 
  
 
 # Results
