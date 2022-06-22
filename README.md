@@ -19,8 +19,8 @@
 
 # Summary
 
- -  Because we refactored, one thing that should stand out the most is the time it took to run the macro as a whole. For 2017, the original macro was ran at a speed of approximately 0.27 seconds while the same macro (but refactored) ran at 0.07 seconds. Much faster. For 2018, 0.27 seconds and for the refactored 2018 macro, 0.08 seconds. 
- -  At the end of the day, refactoring just makes the code you ingest more organized. For me personally, if I am having a hard time *seeing* what is in the window I'm probably going to have an even harder time understanding which component applies to what. When it's refactored it becomes easier to read, even for those who aren't computer-science inclined. One disadvantage that sticks out to me most is the fact that some applications are far too larg to refactor. The reason being: it becomes risky to the integrity of the 
+ -  Because we refactored, one thing that should stand out the most is the time it took to run the macro as a whole. For 2017, the original macro was ran at a speed of approximately 0.27 seconds while the same macro (but refactored) ran at 0.08 seconds. Much faster. The same goes for 2018, the original ran at 0.27 seconds and for the refactored 2018 macro, 0.08 seconds. 
+ -  At the end of the day, refactoring just makes the code you ingest more organized. For me personally, if I am having a hard time *seeing* what is in the window, I'm probably going to have an even harder time understanding which component applies to what. When it's refactored, it becomes easier to read, even for those who aren't computer-science inclined. One disadvantage that sticks out to me most is the fact that some applications are far too larg to refactor. The reason being: it becomes risky to the integrity of the 
 original code when we start making changes to "optimize" it for efficiency.
 
 ![Updated_2017_Run_Time](https://user-images.githubusercontent.com/107223178/175130950-f4790fef-35d6-4464-8ed0-f8d9d453bd57.png)
